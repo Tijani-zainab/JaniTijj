@@ -90,6 +90,6 @@ main {
     /* For mobile phones: */
 
     h1 {
-        bottom: -2;
+        bottom: 0;
     }
 }  
